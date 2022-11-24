@@ -1,9 +1,4 @@
-# Middle-project-KA
-This repository for collecting files about middle project of two sutends from Ironhack.
-
-Participants:
-- Kirill Tiufanov
-- Andrey Rogatin
+ML model for companies bankruptcy prediction
 
 Main goal of project: create a prediction model (based on logical regression) for companies bankruptcy prediction.
 Second goal: Find impactful parametrs on bankruptcy
